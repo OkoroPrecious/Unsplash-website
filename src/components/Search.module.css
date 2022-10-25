@@ -1,0 +1,17 @@
+.search {
+  display: flex;
+  justify-content: center;
+  width: 60%;
+  height: 30px;
+  margin-inline: auto;
+  border: 1px solid red;
+  margin-top: 20px;
+}
+
+.search > input {
+  width: 80%;
+}
+
+.search > button {
+  width: 20%;
+}
